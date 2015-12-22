@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var parserApp = require('./my-parser');
+var parserApp = require('./read_file');
 // app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(req, res){
