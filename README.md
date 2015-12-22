@@ -18,11 +18,10 @@ node static_server.js
 ```
 This will start the server on http://localhost:8081
 
-And the output should like
+And the output should look like
 
 ```
 {
-
     "A": ​2,
     "B": ​23,
     "C": ​6
