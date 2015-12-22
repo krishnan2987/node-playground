@@ -1,4 +1,4 @@
-# Simple Node App using Express for learning purposes
+# Simple Node App using Express
 
 
 ## Install
