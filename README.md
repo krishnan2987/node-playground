@@ -1,7 +1,7 @@
 # Simple Node App using Express
 
 
-## Install
+## Installation
 1. Checkout this repository.
 2. Install npm
 
